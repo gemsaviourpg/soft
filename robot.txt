@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gemsaviourpg.github.io/soft/sitemap.xml
